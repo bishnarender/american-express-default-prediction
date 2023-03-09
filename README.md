@@ -77,5 +77,5 @@ Repeat the same tuning process with 2 models of NN, keeping scores of 2 models o
 -----
 
 ### Future scope
-1. use some developed and approved method on too many missing feature values.
-
+1. use some developed and approved method on too many missing feature values.<br />
+**Note:**  all images used here are present in images folder.
