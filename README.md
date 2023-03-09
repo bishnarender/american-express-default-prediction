@@ -14,7 +14,6 @@ For better understanding of project, read the files in the following order:
 6. nn_main.ipynb
 7. inference.ipynb
 
-
 -----
 
 ### amex.ipynb
@@ -43,8 +42,8 @@ All features are concatenated in this file.
 -----
 
 ### lgb_main.ipynb
-LightGBM was finally trained on "manual features" + "target features". Two models are presented in this file.
-One was trained on only "manual features".
+LightGBM was finally trained on "manual features" + "target features". Two models are presented in this file.<br />
+One was trained on only "manual features".<br />
 Second was trained on both "manual features + target features".
 
 -----
@@ -71,7 +70,7 @@ Ensemble of models on a "hit and trial" basis. First pickup 2 models of LGM for 
 1. In the 1st step, increase the gap between scores of both models. Monitor the score.
 2. In the 2nd step, decrease the gap between scores of both models. Monitor the score.
 3. In the 3rd step, increase scores of both models. Monitor the score.
-4. In the final step, decrease scores of both models. Monitor the score.<br />
+4. In the final step, decrease scores of both models. Monitor the score.
 
 Repeat the same tuning process with 2 models of NN, keeping scores of 2 models of LGM freezed.
 
