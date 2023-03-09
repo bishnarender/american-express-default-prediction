@@ -17,7 +17,7 @@ For better understanding of project, read the files in the following order:
 -----
 
 ### amex.ipynb
-Feature engineering part is performed in this file.
+Feature engineering part is performed in this file.<br />
 Those who have memory restriction can use 'amex_pola_rs.ipynb' insted of this.
 'amex_pola_rs.ipynb' uses polars library for feature creation.
 
