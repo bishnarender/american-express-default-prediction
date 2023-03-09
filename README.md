@@ -61,8 +61,6 @@ Model architecture.
 
 ### metric
 ![metric_1](https://user-images.githubusercontent.com/49610834/224019520-afcb6af9-959f-4ac2-a0d7-23b677f11a6a.jpg)
-![metric_1](https://user-images.githubusercontent.com/49610834/224026691-c38c7f34-1800-440f-8c6e-f9ba0da0c9bd.jpg)
-
 ![metric_2](https://user-images.githubusercontent.com/49610834/224019539-f90f3f8e-2143-46df-8855-a65a9dfb65e8.jpg)
 
 -----
