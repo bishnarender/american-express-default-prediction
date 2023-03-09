@@ -42,16 +42,16 @@ All features are concatenated in this file.
 -----
 
 ### lgb_main.ipynb
-LightGBM was finally trained on "manual features" + "target features". Two models are presented in this file.<br />
-One was trained on only "manual features".<br />
-Second was trained on both "manual features + target features".
+LightGBM was finally trained on "manual features" + "target features". Single model was trained on two types of data.<br />
+One type have only "manual features".<br />
+Second type have both "manual features + target features".
 
 -----
 
 ### nn_main.ipynb
-A neural network was also trained on "modified raw data","manual features" and "target features". Two models are presented in this file.<br />
-One was trained on only "modified raw data".<br />
-Second was trained on both "modified raw data + manual features + target features".<br />
+A neural network was also trained on "modified raw data","manual features" and "target features". Single model was trained on two types of data.<br />
+One type have only "modified raw data".<br />
+Second type have all "modified raw data + manual features + target features".<br />
 Modified raw data is a histogram formulation on raw data.<br />
 
 Model architecture.
