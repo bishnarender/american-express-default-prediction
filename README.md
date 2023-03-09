@@ -50,10 +50,10 @@ Second was trained on both "manual features + target features".
 -----
 
 ### nn_main.ipynb
-A neural network was also trained on "modified raw data","manual features" and "target features". Two models are presented in this file.
-One was trained on only "modified raw data".
-Second was trained on both "modified raw data + manual features + target features".
-Modified raw data is a histogram formulation on raw data.
+A neural network was also trained on "modified raw data","manual features" and "target features". Two models are presented in this file.<br />
+One was trained on only "modified raw data".<br />
+Second was trained on both "modified raw data + manual features + target features".<br />
+Modified raw data is a histogram formulation on raw data.<br />
 
 Model architecture.
 ![model](https://user-images.githubusercontent.com/49610834/224018286-b40fbc28-0f70-4b68-8f97-e4924601347f.jpg)
@@ -71,11 +71,13 @@ Ensemble of models on a "hit and trial" basis. First pickup 2 models of LGM for 
 1. In the 1st step, increase the gap between scores of both models. Monitor the score.
 2. In the 2nd step, decrease the gap between scores of both models. Monitor the score.
 3. In the 3rd step, increase scores of both models. Monitor the score.
-4. In the final step, decrease scores of both models. Monitor the score.
+4. In the final step, decrease scores of both models. Monitor the score.<br />
+
 Repeat the same tuning process with 2 models of NN, keeping scores of 2 models of LGM freezed.
 
 -----
 
 ### Future scope
 1. use some developed and approved method on too many missing feature values.<br />
+
 **Note:**  all images used here are present in images folder.
