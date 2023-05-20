@@ -1,5 +1,5 @@
-# american-express-default-prediction
-## 10th place score achieved.
+## american-express-default-prediction
+## score at 10th position is achieved.
 ![amex_submission](https://user-images.githubusercontent.com/49610834/224013039-21f119fe-fa9c-4769-8480-540791432254.png)
 
 -----
@@ -18,7 +18,7 @@ For better understanding of project, read the files in the following order:
 
 ### amex.ipynb
 Feature engineering part is performed in this file.<br />
-Those who have memory restriction can use 'amex_pola_rs.ipynb' insted of this.<br />
+<b>Those who have memory restriction like me can use 'amex_pola_rs.ipynb' instead of this.</b><br />
 'amex_pola_rs.ipynb' uses polars library for feature creation.
 
 ![feat_engg_1](https://user-images.githubusercontent.com/49610834/224014110-650d3665-17a3-47d8-bc81-a3b0e897b220.jpg)
